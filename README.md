@@ -1,6 +1,6 @@
 # manga-colorization
 
-projet de colorisation d'images utilisant des réseaux de neurones adversaires génératifs
+projet de colorisation d'images utilisant des réseaux de neurones adverses génératifs
 
 le jeu de données contient des pages en couleur du manga One Piece, ces dernières sont ensuites convertis en noir et blanc et le réseau de neurones a pour tâche de reconvertir ces images en noir et blanc en pages colorées
 
